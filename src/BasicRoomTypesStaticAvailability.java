@@ -7,7 +7,7 @@
  * @author Student
  * @version 2.0
  */
-public class UseCase2RoomInitialization {
+public class BasicRoomTypesStaticAvailability {
 
     public static void main(String[] args) {
 
