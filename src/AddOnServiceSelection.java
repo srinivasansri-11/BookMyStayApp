@@ -43,7 +43,7 @@ class AddOnServiceManager {
     }
 }
 
-public class UseCase7AddOnServiceSelection {
+public class AddOnServiceSelection {
     public static void main(String[] args) {
         AddOnServiceManager manager = new AddOnServiceManager();
 
